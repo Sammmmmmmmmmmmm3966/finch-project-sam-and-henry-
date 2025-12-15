@@ -1,0 +1,28 @@
+{
+    "name": "Finch Project Sam and Henry ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-finch": "github:birdbraintechnologies/pxt-finch#v0.0.5",
+        "datalogger": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
